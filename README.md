@@ -1,5 +1,5 @@
 # InspiroBot plugin
- A Powercord plugin that allows you send \'inspirational\' quote images from InspiroBot
+ A Powercord plugin that allows you send \'inspirational\' quote images from InspiroBot.
 
 
 ### Usage:
