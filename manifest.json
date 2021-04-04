@@ -3,5 +3,6 @@
     "description": "Allows you send *inspirational* quote images from InspiroBot",
     "version": "1.0.0",
     "author": "D Brox",
+    "permissions": ["ext_api"],
     "license": "MIT"
 }
